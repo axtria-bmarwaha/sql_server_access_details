@@ -1,0 +1,9 @@
+localhost:23389
+.\axtria
+
+kU5R04Fu3Ne3
+
+
+/usr/local/bin/hanro2-start.sh
+
+/usr/local/bin/sims-start.sh
